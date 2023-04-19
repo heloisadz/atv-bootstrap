@@ -1,0 +1,30 @@
+body{
+    height: 550px;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 17px;
+    flex-direction: column;
+}
+h2{
+    text-align: center;
+}
+.container.mt-3{
+    height: 380px;
+    width: 510px;
+    background-color: rgb(2, 9, 28);
+    color: whitesmoke;
+}
+
+.btn.btn-primary{
+    background-color: whitesmoke;
+    color: rgb(2, 9, 28);
+    border: none;
+}
+
+

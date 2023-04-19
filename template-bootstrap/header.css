@@ -1,0 +1,26 @@
+
+
+.navbar-brand img{
+    border-radius: 24px;
+}
+
+.collapse.navbar-collapse{
+    color: whitesmoke;
+    display: flex;
+   display: flex;
+   align-items: center;
+}
+
+.collapse.navbar-collapse h2{
+    font-size: large;
+    margin-right: 20px;
+    padding-top:8px;
+    text-decoration: underline;
+}
+.btn.btn-primary{
+    background-color: whitesmoke;
+    color: rgb(2, 9, 28);
+    border: none;
+}
+
+ 

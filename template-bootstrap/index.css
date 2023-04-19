@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+}
+
+.carousel-inner{
+    height: 40%;
+    width: 100%;
+}
