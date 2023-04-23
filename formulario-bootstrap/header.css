@@ -1,0 +1,71 @@
+    .btn.btn-outline-success:hover { 
+            background-color: #000000; 
+            color: rgb(170, 152, 186);
+            transition: 0.5s;
+            border: none;
+            opacity: 0.7;
+            }
+
+            .btn.btn-outline-success{
+                margin: 32px;
+                height: 30px;
+                color: rgb(51, 18, 69);
+                border: none;
+            }
+            
+
+    #nav-geral{
+        background-color: rgb(174, 145, 174);
+    }
+nav{
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(190, 107, 128);
+    position: fixed;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background-color: rgb(190, 107, 128);
+}
+.navbar-brand img{
+    border-radius: 24px;
+}
+
+.collapse.navbar-collapse{
+    color: whitesmoke;
+    display: flex;
+   display: flex;
+   align-items: center;
+}
+
+.collapse.navbar-collapse h2{
+    font-size: large;
+    margin-right: 20px;
+    padding-top:8px;
+    text-decoration: underline;
+}
+.btn.btn-primary{
+    background-color: whitesmoke;
+    color: rgb(2, 9, 28);
+    border: none;
+}
+#mynavbar{
+    height: 80px;
+}
+
+input.form-control.me-2{
+    margin: 30px;
+}
+
+a.navbar-brand{
+    margin: 20px;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.navbar-nav.me-auto.mb-2.mb-lg-0{
+    margin: 25px;
+    font-size: large;
+}
